@@ -1,0 +1,16 @@
+baseURL = "/"
+languageCode = "fr-fr"
+title = "numerix"
+theme = "ananke"
+
+[params]
+  description = "Bien démarrrer avec Hugo"
+  metadescription = "Utilisé dans la balise meta 'description' pour l’accueil et les pages d’index, faute de quoi c'est l’entrée 'description' du front matter de la page qui sera utilisé."
+  cover = ""
+  author = "Eric Tixidor"
+  authorlocation = "Terre, près du Soleil, Galaxie La Voie Lactée"
+  authorwebsite = ""
+  authorbio= ""
+  logo = ""
+  hjsStyle = "default"
+  paginatedsections = ["posts"]
